@@ -1,22 +1,20 @@
 # INFO-5082-Project
 INFO 5082 Project Proposal
 
-Introduction:
-The main idea behind this project is to predict whether the use will like a song or not based on the songs present in his/her paylist. The dataset used is the spotify dataset. The dataset is in CSV format and it consists of all audio and technical information about the tracks of a single playlist. 
-In today’s surging economy artist success on spotify is one of the leading indicators of artist success across steaming and social platforms and music industry verticals.
+Netflix Recommendation System
+A recommendation system generates a compiled list of items in which a user might be interested, in the reciprocity of their current selection of item(s). It expands users’ suggestions without any disturbance or monotony, and it does not recommend items that the user already knows.
+For instance, the Netflix recommendation system offers recommendations by matching and searching similar users' habits and suggesting movies that share characteristics with films that users have rated highly. The goal of the project is to develop a recommendation system for Netflix.
 
-Literature Review:
-This project deals with tools and programming languages that I learned in my masters. I will be using python libraries to do the analysis. I would like to perform Exploratory Data Analysis, Data Visualization , Linear Regression and K-Nearest Neighbour Machine Learning Model. 
+Netflix Dataset:
+Combine_data_2.txt : this text file contains movie_id, customer_id, rating, date
+Movie_title.csv: this csv file contains movie_id and movie_title.
 
-Basic Idea for Data Analysis:
-The data has been scraped from Spotify the scraping is done using Web API, through web scraping I fetched the information of all tracks in Spotify playlists. Dataset contains more than 160 songs collected from Spotify Web API. The features include song, artist, releasedate, characteristics of song such as acousticness, danceability, loudness, tempo. Data range is from 1921 to 2020. The dataset includes many different measures on songs.
+Literature Review: This project deals with tools and programming languages that I learned in my masters. I will be using python libraries to do the analysis. I would like to perform Exploratory Data Analysis, Data Visualization , Linear Regression and create Machine Learning Model.
 
 The main steps in project:
-1.	Data Cleaning
-2.	Classification of tracks for identifying songs
-3.	Data Visualization
-4.	Building Machine Learning Model
-
+Data Cleaning
+Exploratory Data Analysis
+Building Recommendation System
 
 
 
