@@ -26,6 +26,8 @@ Model-based algorithms first construct a model to represent user behaviour and, 
 Organizations like Netflix have a colossal information base of the practices of information gathered to have the option to perform condition of-craftsmanship proposals with the goal that they can show the most significant substance to the clients to expand the commitment. 
 
 I would focus structure a suggestion model utilizing collaborative technique to prescribe films to users.
+
+
 6. Research design and methodology:
             The dataset is obtained from Kaggle website. It contains CustomerID, Rating, Date.
             MovieIDs range from 1 to 17770 sequentially. 
