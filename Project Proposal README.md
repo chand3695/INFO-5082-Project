@@ -42,7 +42,7 @@ I would focus structure a suggestion model utilizing collaborative technique to 
 
     https://www.kaggle.com/netflix-inc/netflix-prize-data
  
-                 8. Conclusion:
+8. Conclusion: 
 Building recommendation framework has it's own advantages , the recommendation model means to give the generally pertinent and relatable data to a client relying upon the conduct of the client. With the development of large information age across different fields, data over-burden is turning into a basic issue. To address this, various Recommendation Systems (RS) have been created to help customers discover things of interest.
 
 
@@ -54,13 +54,11 @@ Building recommendation framework has it's own advantages , the recommendation m
 
       [2] Lund, J., & Ng, Y. (2018). Movie recommendations using the deep learning approach. 2018 IEEE International Conference on Information Reuse and Integration (IRI). https://doi.org/10.1109/iri.2018.00015
 
-     [3] Varma, A. N. (2021). Movie recommender system. International Journal for Research in Applied Science and Engineering Technology, 9(1), 833-837. https://doi.org/10.22214/ijraset.2021.32936
+     [3] Varma, A. N. (2021). Movie recommender system. International Journal for Research in Applied Science and Engineering Technology, 9(1), 833-837. https://doi.org/10.22214/ijraset.2021.32936	
 
-     [4] 	
+    [4] Gulhane, A., Vyas, A., Mitra, R., Oruche, R., Hoefer, G., Valluripally, S., Calyam, P., & Hoque, K. A. (2019). Security, privacy and safety risk assessment for virtual reality learning environment applications. 2019 16th IEEE Annual Consumer Communications & Networking Conference (CCNC). https://doi.org/10.1109/ccnc.2019.8651847
 
-    [5] Gulhane, A., Vyas, A., Mitra, R., Oruche, R., Hoefer, G., Valluripally, S., Calyam, P., & Hoque, K. A. (2019). Security, privacy and safety risk assessment for virtual reality learning environment applications. 2019 16th IEEE Annual Consumer Communications & Networking Conference (CCNC). https://doi.org/10.1109/ccnc.2019.8651847
-
-    [6] Chen, Q., & Aickelin, U. (2004). Movie recommendation systems using an artificial immune system. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2832022
+    [5] Chen, Q., & Aickelin, U. (2004). Movie recommendation systems using an artificial immune system. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2832022
 
 
 
